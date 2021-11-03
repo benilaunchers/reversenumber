@@ -1,4 +1,4 @@
 .idea
 cmake-build-debug
-cmaike-build-debug-mingw
+cmake-build-debug-mingw
 CMakeLists.txt
