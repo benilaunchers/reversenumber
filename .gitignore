@@ -1,0 +1,4 @@
+.idea
+cmake-build-debug
+cmaike-build-debug-mingw
+CMakeLists.txt
